@@ -1,0 +1,15 @@
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\obj\Debug\net6.0\conditions.csproj.AssemblyReference.cache
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\obj\Debug\net6.0\conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\obj\Debug\net6.0\conditions.AssemblyInfoInputs.cache
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\obj\Debug\net6.0\conditions.AssemblyInfo.cs
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\obj\Debug\net6.0\conditions.csproj.CoreCompileInputs.cache
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\bin\Debug\net6.0\conditions.exe
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\bin\Debug\net6.0\conditions.deps.json
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\bin\Debug\net6.0\conditions.runtimeconfig.json
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\bin\Debug\net6.0\conditions.dll
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\bin\Debug\net6.0\conditions.pdb
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\obj\Debug\net6.0\conditions.dll
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\obj\Debug\net6.0\refint\conditions.dll
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\obj\Debug\net6.0\conditions.pdb
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\obj\Debug\net6.0\conditions.genruntimeconfig.cache
+C:\Users\User\Progra - Talleres\06 - Condiciones\conditions\obj\Debug\net6.0\ref\conditions.dll
